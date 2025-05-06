@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: rgba(146, 230, 90, 0.1);
+}
+
+.hero {
+  height: 700px;
+
+  background-image: url(../img/hero-png.png);
+}
+
+.hero-header {
+  color: chocolate;
+}
+.promise-name {
+  font-size: 17px;
+  font-weight: 600;
+  color: #2f327d;
+}
+.promise-text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
